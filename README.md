@@ -12,4 +12,4 @@ Implementing Variational Autoencoder and explored the importance of each part of
 ## General
 
 ### Background
-The reason for this exerice in the first place is the fact 
+The point of this exerice is to expretimnt with creating Variational-Autoencoders and to explore the the thoery behind it.VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has good properties allowing us to generate some new data
