@@ -12,3 +12,4 @@ Implementing Variational Autoencoder and explored the importance of each part of
 ## General
 
 ### Background
+The reason for this exerice in the first place is the fact 
