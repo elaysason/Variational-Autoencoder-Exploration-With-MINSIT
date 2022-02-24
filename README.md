@@ -12,4 +12,6 @@ Implementing Variational Autoencoder and explored the importance of each part of
 ## General
 
 ### Background
-The point of this exerice is to expretimnt with creating Variational-Autoencoders and to explore the the thoery behind it.VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has good properties allowing us to generate some new data
+This notbook is  another look into deep learning, this time into Variational-Autoencoders(or VAE in short).VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has good properties allowing us to generate new images. The VAE in our case while using the MINST data set will generate new number images using the latent variblies learned in the training fase.
+
+### Program Structure
