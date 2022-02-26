@@ -14,5 +14,10 @@ Implementing Variational Autoencoder and explored the importance of each part of
 ### Background
 This notbook is  another look into deep learning, this time into Variational-Autoencoders(or VAE in short).VAE is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has good properties allowing us to generate new images. The VAE in our case while using the MINST data set will generate new number images using the latent variblies learned in the training fase.
 
+![alt text](https://i.imgur.com/TA45raG.png)
+
 ### Program Structure
-The VariationalAutoencoder is defined containg decoder and encoder using reparametrization trick.
+The VariationalAutoencoder is defined containg decoder and encoder using reparametrization trick. The analysis is compased of there main part:
+* Evaluting the effect of ![formula](https://render.githubusercontent.com/render/math?math=\{\mu}) on the output by sampling new images from problastic decoder with noisy expectation.
+* Evaluting the effect of ![formula](https://render.githubusercontent.com/render/math?math=\{\sigma}) by a performing a similar trial, but this time multipling the std by 0.1,1,10,100
+* Looking at the part of each part of the loss function of ![formula](https://render.githubusercontent.com/render/math?math=\{\D_{KL}(q_\phi(z|x)||p_\theta(z))})
