@@ -35,9 +35,9 @@ I will use google as an example but similar procces can be prefomred on other no
 	```
 	!git clone https://github.com/elaysason/Variational-Autoencoder-Exploration-With-MINST.git
 	```
-<img src="https://i.imgur.com/FNPvWFe.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
+	<img src="https://i.imgur.com/FNPvWFe.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
 
 3. Now the folder is in your files on colab. simpily download the nootbook as showed
 
-<img src="https://i.imgur.com/0FegydE.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
+	<img src="https://i.imgur.com/0FegydE.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
 
