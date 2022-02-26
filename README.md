@@ -25,3 +25,19 @@ The VariationalAutoencoder is defined containg decoder and encoder using reparam
 ### Running Instructions
 After donwloading the file on colab. Press on file -> open nootbook -> Upload and then drop to downloaded file.
 
+Now you can run the whole nootbok or specfic cells.
+
+
+## Installation
+I will use google as an example but similar procces can be prefomred on other nootbook editors
+1. Open google colab
+2. Clone the project by:
+	```
+	!git clone https://github.com/elaysason/Variational-Autoencoder-Exploration-With-MINST.git
+	```
+<img src="https://i.imgur.com/FNPvWFe.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
+
+3. Now the folder is in your files on colab. simpily download the nootbook as showed
+
+<img src="https://i.imgur.com/0FegydE.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=30% height=30% />
+
