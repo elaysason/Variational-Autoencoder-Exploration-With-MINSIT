@@ -20,7 +20,7 @@ This notbook is  another look into deep learning, this time into Variational-Aut
 The VariationalAutoencoder is defined containg decoder and encoder using reparametrization trick. The analysis is compased of there main part:
 * Evaluting the effect of ![formula](https://render.githubusercontent.com/render/math?math=\{\mu}) on the output by sampling new images from problastic decoder with noisy expectation.
 * Evaluting the effect of ![formula](https://render.githubusercontent.com/render/math?math=\{\sigma}) by a performing a similar trial, but this time multipling the std by 0.1,1,10,100
-* Looking at the part of each part of the loss function of VAE which is : ![formula](https://render.githubusercontent.com/render/math?math=\{\D_{KL}(q_\phi(z|x)||p_\theta(z))-E_z[logp_\theta(x|z)]}). This is excuted by training only one part at a time.
+* Looking at the part of each part of the loss function of VAE which is : ![formula](https://render.githubusercontent.com/render/math?math=\{\D_{KL}(q_\phi(z|x)||p_\theta(z))-E_z[logp_\theta(x|z)]}). This is executed by training only one part at a time.
 
 ### Running Instructions
 After donwloading the file on colab. Press on file -> open nootbook -> Upload and then drop to downloaded file.
